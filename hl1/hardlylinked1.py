@@ -4,12 +4,7 @@ hardlyliked1.py
 This is a program to save or restore hard links in a set of files or
 directories.
 
-This version does not actually do anything except create the
-framework for the program, including:
-
-* parsing arguments
-* setting up logging
-* invoking dummy functions
+This version implemets the basic functionality.
 """
 import logging
 import os
